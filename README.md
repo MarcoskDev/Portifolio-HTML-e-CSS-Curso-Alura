@@ -1,7 +1,8 @@
-
 # Portfólio desenvolvido durante o curso da Alura em parceria com o programa Inova Maranhão.
 
 Este portfólio foi desenvolvido para colocar em prática o que aprendi durante o curso de HTML e CSS da plataforma Alura, em parceria com o programa Inova Maranhão.
+<img src="Banner-portifolio.png" alt="Foto de banner do portfólio">
+
 #### Link de visualização do projeto
 [Clique aqui para ver o projeto](https://marcoskdev.github.io/Portifolio-HTML-e-CSS-Curso-Alura/)
 ## Stack utilizada
